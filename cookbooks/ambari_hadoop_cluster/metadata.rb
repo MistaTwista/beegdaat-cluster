@@ -1,0 +1,7 @@
+name 'ambari_hadoop_cluster'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures ambari_hadoop_cluster'
+long_description 'Installs/Configures ambari_hadoop_cluster'
+version '0.1.0'

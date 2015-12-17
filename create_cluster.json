@@ -1,0 +1,14 @@
+{
+  "blueprint": "beegdaat",
+  "host_groups": [
+    {
+      "name": "host_group_1",
+      "hosts": [
+        {
+          "fqdn": "a.ambari.local",
+          "ip": "10.0.0.11"
+        }
+      ]
+    }
+  ]
+}
